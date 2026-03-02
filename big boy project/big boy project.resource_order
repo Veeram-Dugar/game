@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Dialouge system","order":5,"path":"folders/Dialouge system.yy",},
+    {"name":"objects","order":2,"path":"folders/objects.yy",},
+    {"name":"sprites","order":1,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_attack","order":3,"path":"objects/obj_attack/obj_attack.yy",},
+    {"name":"obj_player","order":4,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_rockoenemy","order":2,"path":"objects/obj_rockoenemy/obj_rockoenemy.yy",},
+    {"name":"oground","order":1,"path":"objects/oground/oground.yy",},
+    {"name":"attack","order":8,"path":"sprites/attack/attack.yy",},
+    {"name":"background1","order":3,"path":"sprites/background1/background1.yy",},
+    {"name":"heart","order":4,"path":"sprites/heart/heart.yy",},
+    {"name":"rocko","order":2,"path":"sprites/rocko/rocko.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
+    {"name":"Sprite8","order":7,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"ssatyrchar","order":1,"path":"sprites/ssatyrchar/ssatyrchar.yy",},
+    {"name":"TileSet1","order":3,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"TileSet2","order":4,"path":"tilesets/TileSet2/TileSet2.yy",},
+  ],
+}
